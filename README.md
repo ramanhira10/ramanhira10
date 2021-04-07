@@ -1,4 +1,4 @@
-Hi there wave, I'm Raman Hira 
+Hi there, I'm Raman Hira 
 
 I'm a Senior Frontend Developer with love for UI related technologies.
 I am open to collaborate with other digital content creators
