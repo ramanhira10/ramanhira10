@@ -1,6 +1,6 @@
 ### Hi there, I'm Raman Hira 
 
-- 💻 I'm a Full Stack Developer with love for UI, Web and Mobile related technologies.
+- 💻 I'm a Full Stack Developer with love for Web and Mobile related technologies.
 - 🤝 I am open to collaborate with other digital content creators
 - ⚛️ I love to learn new things, technologies and interesting stuff
 - 🤾‍♂️I felt myself positive, self driven, hard working and friendly
